@@ -16,8 +16,7 @@ main {
     padding: 5rem;
 }
 
-/*===================== Rounded button =====================*/
-/* Rounded button style */
+
 .rounded-button {
 
     border-radius: 2rem;
@@ -26,23 +25,21 @@ main {
     border: 0 none;
     margin: 2rem; 
     color: white;}
-/* Rounded button hover */
+
 .rounded-button:hover{
     background-color : black;
     color: plum;
 }
-/* Rounded button active */
+
 .rounded-button:visited {
     background-color: palegreen;
 }
-/* Rounded Button Focus*/
+
 .rounded-button:focus {
     background-color: peachpuff;
 }
 
 
-
-/*===================== Div Border =====================*/
 
 .border-div{
     text-align: center;
@@ -52,7 +49,6 @@ main {
     color: aliceblue;
 }
 
-/*===================== DIV =====================*/
 .div-outer {
 
     height: 13rem;
@@ -79,28 +75,25 @@ main {
     background-color: rgb(170, 170, 223);
 }
 
-/*===================== Links =====================*/
-/* Link hover */
+
 a {
     color: azure;
 }
 li a:hover { 
     color : rgb(255, 143, 221);
 }
-/* Link active */
+
 li a:active {
     color :rgb(118, 255, 91);
 }
-/* Link visited */
+
  a:visited {
     color: rgb(0, 0, 0);
 }
-/* Link focus */
+
  a:focus{
     color : rebeccapurple;
 }
-
-/*===================== Float =====================*/
 
 .box {
     background-color: rgb(102, 0, 77);
